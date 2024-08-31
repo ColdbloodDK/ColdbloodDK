@@ -6,8 +6,9 @@
 
 ###
 
-### 💻 My Tech Stack 💻
+- ### 💻 My Tech Stack 💻
 <div align="left">
+  <img width="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo" />
@@ -31,11 +32,12 @@
 
 ###
 
-### 📱 Socials 📱
+- ### 📱 Socials 📱
 
 ###
 
 <div align="left">
+  <img width="48" />
   <a href="https://discord.gg/wRbkbXyqNA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="38" height="34" alt="discord logo" />
   </a>
