@@ -50,6 +50,7 @@
 ###
 
 <div align="center">
+  <img height="50" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColdbloodDK&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
