@@ -35,10 +35,6 @@
 - ### 🔗 All My Links
 
 <p align="left">
-  👉 [Links - ColdbloodDK](https://links.ethernia.gg/@ColdbloodDK)
-</p>
-
-<p align="center">
   👉 <a href="https://links.ethernia.gg/@ColdbloodDK">Links - ColdbloodDK</a>
 </p>
 
