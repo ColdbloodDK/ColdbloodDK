@@ -34,20 +34,13 @@
 
 ###
 
-- ### 📱 Socials 📱
+- ### 📱 All My Links 📱
 
 ###
 
-<div align="left">
-  <img width="48" />
-  <a href="https://discord.gg/wRbkbXyqNA" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="34" height="34" alt="discord logo" />
-  </a>
-  <img width="4" />
-  <a href="https://t.me/ColdbloodDK" target="_blank" >
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="34" height="34" alt="telegram logo" />
-  </a>
-</div>
+<p align="center">
+  👉 <a href="https://links.ethernia.gg/@ColdbloodDK">Links - ColdbloodDK</a>
+</p>
 
 ###
 
