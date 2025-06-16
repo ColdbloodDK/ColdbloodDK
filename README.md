@@ -32,11 +32,13 @@
 
 </div>
 
-###
+---
 
-- ### 📱 All My Links 📱
+- ### 🔗 All My Links
 
-###
+<p align="left">
+  👉 [Links - ColdbloodDK](https://links.ethernia.gg/@ColdbloodDK)
+</p>
 
 <p align="center">
   👉 <a href="https://links.ethernia.gg/@ColdbloodDK">Links - ColdbloodDK</a>
@@ -45,14 +47,11 @@
 ###
 
 <div align="center">
-  <img height="50" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ColdbloodDK&radius=16&theme=nord&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ColdbloodDK.ColdbloodDK&left_color=deepskyblue&right_color=dodgerblue&left_text=Visitors" />
 </div>
-
-###
